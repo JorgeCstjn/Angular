@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "fname": "Eric",
+        "lname": "Farre",
+        "year": "02/12/2002",
+        "mail": "farre@gmail.com",
+        "descripcion": "Hola soc nazi",
+        "pssw": "12345"
+    },
+    {
+        "id": 2,
+        "fname": "Paco",
+        "lname": "Holografico",
+        "year": "12/12/2022",
+        "mail": "lol@gmail.com",
+        "descripcion": "Hola soc jo me lo come",
+        "pssw": "12345"
+    },
+    {
+        "id": 3,
+        "fname": "Klau",
+        "lname": "Enano",
+        "year": "12/12/2000",
+        "mail": "klau@gmail.com",
+        "descripcion": "Hola soc klau me lo come",
+        "pssw": "132"
+    }
+]

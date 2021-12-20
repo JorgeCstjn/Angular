@@ -4,13 +4,14 @@
 
 
 
-<form itemForm="ngForm"(ngSubmit) method="post"></form>
+<form itemForm="ngForm"(ngSubmit)="nuevoPersonaje(itemForm)">
 
 
     <label for="nombre">Nombre:</label>
-    <input type="text" id="nombre" name="nombre"><br><br>
+    <input class="form-control" name="nombre" type="text" ngModel required><br><br>
 
     <label for="poder">Poder:</label>
-    <input type="number" id="poder" name="poder"><br><br>
+    <input class="form-control" name="poder" type="text" min="0" ngModel required><br><br>
+    
 
 </form>
